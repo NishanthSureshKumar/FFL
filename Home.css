@@ -1,0 +1,30 @@
+#navbar {
+    background-color: #6A3990;
+    padding-left: 65%;
+}
+
+#navbar a {
+    color: white;
+    border-right: 1px solid white;
+    line-height: 3px;
+}
+
+#goat img {
+    width: 258px;
+    height: 90px;
+}
+
+#goat ul {
+    padding-left: 35%;
+    color: black;
+}
+
+#empty {
+    background-color: #6A3990;
+    max-width: 100%;
+    color: #6A3990;
+}
+
+#empty p {
+    margin-bottom: 0;
+}
